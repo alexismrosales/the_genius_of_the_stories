@@ -1,4 +1,4 @@
-# sThe genius of the stories
+# The genius of the stories
 Basic guesser game.
 
 ## Execution
